@@ -3,10 +3,14 @@ body {
     color: #272829;
 }
 
+.Python-co{
+    color: #4B8BBE
+}
 a {
     color: #149ddd;
     text-decoration: none;
 }
+
 
 a:hover {
     color: #37b3ed;
